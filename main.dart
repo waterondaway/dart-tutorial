@@ -17,7 +17,7 @@ void main() {
       35; // num can be assign with integer or decimal number, compiler will adjust how to show number (for like. without decimal or with decimal)
   bool status = true; // boolean (true or false)
   String school = "Bangkok Christian College"; // String with ""
-
+  print(status);
   // dynamic type
   dynamic weight; // dynamic can be assign any type of parameter
   weight = 69;
